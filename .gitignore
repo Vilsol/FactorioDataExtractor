@@ -1,4 +1,4 @@
 factorio/
 .idea/
 *.iml
-data.json
+*.json
